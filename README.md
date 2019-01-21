@@ -1,3 +1,3 @@
 # InternChallenge
 
-## Download link:
+## Test Flight Download link:
