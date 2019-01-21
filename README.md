@@ -4,4 +4,4 @@
 
 ## Test Flight Download link:
 
-### I have my Developler license so I'm running it through test flight! The app is currently being processed by apple so that I can hand out public download link. It Should be here by Jan 21.
+### https://testflight.apple.com/join/rXmeK3xH
